@@ -15,7 +15,7 @@ class String
   end
 
   def count_sentences
-    self.split(.!?).map do 
+    self.split(.!?).map do
     end
   end
 end
