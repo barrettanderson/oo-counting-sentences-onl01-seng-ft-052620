@@ -16,7 +16,7 @@ class String
 
   def count_sentences
     binding.pry
-    self.split(.!?).map do
+    self.split(.)map do
     end
   end
 end
