@@ -16,7 +16,7 @@ class String
 
   def count_sentences
     # binding.pry
-    self.split(/\. |\!|\?/).count
+    i = self.split(/\. |\!|\?/)
 
   end
 end
